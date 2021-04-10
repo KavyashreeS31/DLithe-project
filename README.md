@@ -1,4 +1,4 @@
-**project overview:**
+**Project overview:**
 
 Big companies involved in financial engagements and banks are using machine learning for fraud detection. This helps companies to keep consumers safe. Machine learning can also be valuable to companies that handle credit card transactions. The technology is trained to flag transactions that appear to be fraudulent based on certain criteria according to the company’s rules. By detecting such mishaps, companies can be prevented from falling prey to a big loss. Besides, an enterprise can also gain insights into its competitive landscape and consumer loyalty and forecast sales or demand in real-time with machine learning.Fraud detection methods are continuously developed to defend criminals in adapting to their fraudulent strategies.This project covers credit card fraud and is meant to look at a dataset of transactions and predict whether it is fraudulent or not. 
   
@@ -48,6 +48,7 @@ Our Isolation Forest method (which is Random Forest based) was able to produce a
 **References used:**
 
 https://www.google.com/search?q=credit+card+fraud+detection
+
 https://www.kaggle.com/mlg-ulb/creditcardfraud
   
   
